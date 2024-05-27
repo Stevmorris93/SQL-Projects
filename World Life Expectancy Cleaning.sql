@@ -1,7 +1,6 @@
 #World Life Expectancy - Data Cleaning
 SELECT * 
-FROM world_l
-ife_expectancy
+FROM world_life_expectancy
 ;
 
 
